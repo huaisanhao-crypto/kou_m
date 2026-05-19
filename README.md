@@ -1,8 +1,3 @@
 # kou_m
-n = int(input())
-
-if n % 2 == 0:
-    print("Even")
-
-else:
-    print("Odd")
+情報分野やデータ分析について学習しています。
+Pythonを中心に学習中で、AtCoderや授業内で作成したコードをまとめています。
